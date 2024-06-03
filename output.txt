@@ -1,1 +1,1 @@
-6
+fibonacci for 2 is: 1
