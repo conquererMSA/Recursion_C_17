@@ -1,5 +1,5 @@
-// int input;
-    // cin>>input;
-    // int result=findSumOfDigits(input);
-    // cout<<result;
-    // return 0;
+// if (arr[size - 1] > maxOfRest) {
+    //     return arr[size - 1];
+    // } else {
+    //     return maxOfRest;
+    // }

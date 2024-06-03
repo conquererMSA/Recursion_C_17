@@ -1,1 +1,1 @@
-30
+The maximum number in the array is: 99
