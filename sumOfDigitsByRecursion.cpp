@@ -11,11 +11,15 @@ int findSumOfDigits(int n){
    if(n<9){
     return n;
    }
-int lastDigit=n%10;
-int due=findSumOfDigits(n/10);
-int oneTimeValue= due+lastDigit;
-return oneTimeValue;
+   //approach 1
+// int lastDigit=n%10;
+// int due=findSumOfDigits(n/10);
+// int oneTimeValue= due+lastDigit;
+// return oneTimeValue;
 
+//approach 2
+// int lastDigit=n%10;
+//  return lastDigit+findSumOfDigits(n/10);
 
 }
 int main(){
