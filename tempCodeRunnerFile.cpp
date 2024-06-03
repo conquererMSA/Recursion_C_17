@@ -1,2 +1,5 @@
-int lastDigit=n%10;
- return lastDigit+findSumOfDigits(n/10);
+// int input;
+    // cin>>input;
+    // int result=findSumOfDigits(input);
+    // cout<<result;
+    // return 0;
