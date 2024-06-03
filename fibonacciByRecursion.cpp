@@ -10,12 +10,15 @@ int findFibonacci(int n){
    if(n==1){
     return 1;
   }
-  //first precding number before n-1
-  int one=findFibonacci(n-1);
-  //last preceding number before n-2
-  int two=findFibonacci(n-2);
-  return one+two;
+  //approach 1
+//   //first precding number before n-1
+//   int one=findFibonacci(n-1);
+//   //last preceding number before n-2
+//   int two=findFibonacci(n-2);
+//   return one+two;
   
+  //approach 2
+  return findFibonacci(n-1)+findFibonacci(n-2);
 }
 int main(){
     int input;
