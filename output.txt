@@ -1,1 +1,1 @@
-abcd efgh ijkl
+mcyyd is not a palindrome.
