@@ -1,5 +1,2 @@
-// if (arr[size - 1] > maxOfRest) {
-    //     return arr[size - 1];
-    // } else {
-    //     return maxOfRest;
-    // }
+// int gcd=findGCD(x,y);
+    // cout<<gcd;

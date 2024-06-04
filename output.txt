@@ -1,1 +1,1 @@
-mcyyd is not a palindrome.
+1
