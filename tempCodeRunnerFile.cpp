@@ -1,2 +1,1 @@
-// int gcd=findGCD(x,y);
-    // cout<<gcd;
+ // cout<<s<<endl;
