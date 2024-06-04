@@ -8,6 +8,7 @@ int findGCD(int x, int y){
     return x;
  }
  int gcd=findGCD(y, x%y);
+ //ekhane protita recursion function call e x and y er man and obostan er poriborton hoy. zotokkhon na porzonto x and y er moddhye kuno value 0 na hocce recursive function call hotei thake. Kuno ekti value 0 holei onno value return kore deya hoy.
  return gcd;
 }
 int main(){
